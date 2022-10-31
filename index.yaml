@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  chartforrepo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-31T12:03:43.0522655-04:00"
+    description: A Helm chart for github repo
+    digest: 52257c4586628494dbdac9dc8154c765197d545f81967db653d596175d1d0fc4
+    name: chartforrepo
+    type: application
+    urls:
+    - chartforrepo-0.1.5.tgz
+    version: 0.1.5
+generated: "2022-10-31T12:03:43.0512128-04:00"

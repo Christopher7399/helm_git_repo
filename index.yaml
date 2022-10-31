@@ -3,7 +3,7 @@ entries:
   chartforrepo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-31T14:30:27.3955373-04:00"
+    created: "2022-10-31T14:46:12.9834005-04:00"
     description: A Helm chart for github repo
     digest: 52257c4586628494dbdac9dc8154c765197d545f81967db653d596175d1d0fc4
     name: chartforrepo
@@ -14,7 +14,7 @@ entries:
   gitrepotest2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-31T14:30:27.3961384-04:00"
+    created: "2022-10-31T14:46:12.9839147-04:00"
     description: This is the second chart package for testing repo.
     digest: d4eb572d2f9ae8299e32ccdf53960d004183a10c72a8bc59563228639ef904e0
     name: gitrepotest2
@@ -25,7 +25,17 @@ entries:
   upgrade-rlbk:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-31T14:30:27.3966417-04:00"
+    created: "2022-10-31T14:46:12.9849416-04:00"
+    description: A Helm chart for upgrade and rollback example.
+    digest: 7a54ed530ac69ca09070fbb8f2e1ae034a06d17f07634e9da0bd59ddc9f65978
+    name: upgrade-rlbk
+    type: application
+    urls:
+    - upgrade-rlbk-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-31T14:46:12.9844276-04:00"
     description: A Helm chart for upgrade and rollback example.
     digest: eb4becf052b9ef3e3a001c8958812d41e6ddd061a2ce0f28527cc947b43cd920
     name: upgrade-rlbk
@@ -35,7 +45,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-31T14:30:27.3966417-04:00"
+    created: "2022-10-31T14:46:12.9839147-04:00"
     description: A Helm chart for upgrade and rollback example.
     digest: 00663dd81f67327667dbb9e9ffa9bdab69cb83a14b5c151747f0691eb923f25d
     name: upgrade-rlbk
@@ -43,4 +53,4 @@ entries:
     urls:
     - upgrade-rlbk-0.1.0.tgz
     version: 0.1.0
-generated: "2022-10-31T14:30:27.3949933-04:00"
+generated: "2022-10-31T14:46:12.9828868-04:00"
